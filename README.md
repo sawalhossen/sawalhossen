@@ -1,5 +1,6 @@
-### Hi  👋, my name is Sawal Hossen ![Profile views](https://gpvc.arturio.dev/sawalhossen)  
+### Hi  👋, my name is Sawal Hossen  
 #### I am a Web Developer
+![Profile views](https://gpvc.arturio.dev/sawalhossen) 
 ![I am a Web Developer](https://media.licdn.com/dms/image/D5622AQH_fwWRgSu7OQ/feedshare-shrink_1280/0/1684632778487?e=1687392000&v=beta&t=b-ZLGC5itENC29UUN2JJKdOLKuVnSbTrMKS_i3Hq8cc)
 
 
@@ -10,7 +11,7 @@ I enjoy bringing ideas to life through clean and efficient code. By leveraging H
 My knowledge of Bootstrap allows me to design responsive and mobile-friendly websites, ensuring seamless compatibility across various devices and screen sizes.
 
 Skills: HTML / CSS / JS / PHP / C
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sawalhossen)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🔭 I’m currently working on SoftTech-IT Institute 
 - 🌱 I’m currently learning C++ 
