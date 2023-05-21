@@ -1,4 +1,4 @@
-### Hi  👋, my name is Sawal Hossen
+### Hi  👋, my name is Sawal Hossen ![Profile views](https://gpvc.arturio.dev/sawalhossen)  
 #### I am a Web Developer
 ![I am a Web Developer](https://media.licdn.com/dms/image/D5622AQH_fwWRgSu7OQ/feedshare-shrink_1280/0/1684632778487?e=1687392000&v=beta&t=b-ZLGC5itENC29UUN2JJKdOLKuVnSbTrMKS_i3Hq8cc)
 
@@ -32,5 +32,5 @@ Skills: HTML / CSS / JS / PHP / C
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sawalhossen)  
 
-![Profile views](https://gpvc.arturio.dev/sawalhossen)  
+
 
