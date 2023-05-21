@@ -10,6 +10,7 @@ I enjoy bringing ideas to life through clean and efficient code. By leveraging H
 My knowledge of Bootstrap allows me to design responsive and mobile-friendly websites, ensuring seamless compatibility across various devices and screen sizes.
 
 Skills: HTML / CSS / JS / PHP / C
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sawalhossen)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on SoftTech-IT Institute 
 - 🌱 I’m currently learning C++ 
@@ -22,15 +23,12 @@ Skills: HTML / CSS / JS / PHP / C
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sawalhossen)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sawalhossen)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sawalhossen&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sawalhossen)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sawalhossen&show_icons=true&count_private=true)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=sawalhossen)  
+ 
 
 ![GitHub metrics](https://metrics.lecoq.io/sawalhossen)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=sawalhossen)  
 
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sawalhossen) 
 
